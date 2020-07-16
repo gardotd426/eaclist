@@ -1,4 +1,7 @@
 # eaclist
+
+𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏
+
 List of EAC games and whether they're known to be working with wine
 
 
@@ -10,3 +13,5 @@ This is to sort of manage the chaos of a couple hundred people testing around 10
 Please don't throw this all over the linuxnet (r/linux_gaming, lutris forums, gamingonlinux, etc.) Obviously I can't stop you, but the more random people that've been on Linux for 3 days that show up trying to run this wine-eac, the more chaotic it gets for Guy, Blitzcrank, Josh, TKG, GE, and the rest of the guys. 
 
 If you have tested a new game and it works, go ahead and edit the list and submit a PR. Anyone that wants to actually help maintain this let me know and I can add you as a collaborator. 
+
+𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏
