@@ -2,8 +2,6 @@
 
 𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏𓆏
 
-Guy, didn't wanna make this public until you approved, so that's why it's private and you're an invited collaborator. You can do as you see fit. Just multiple people have mentioned trying to get some sort of database together, thought I'd go ahead and get it done. 
-
 
 List of EAC games and whether they're known to be working with wine
 
